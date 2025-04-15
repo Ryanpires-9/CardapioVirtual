@@ -1,2 +1,2 @@
 <h1>Cardápio Virtual</h1>
-<img src="cardapio.png">
+<img src="Cardapio.png" alt="Menu Image">
