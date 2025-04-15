@@ -1,0 +1,10 @@
+C:\Users\LabInfo\source\repos\CardapioVirtual\CardapioVirtual\bin\Debug\CardapioVirtual.exe.config
+C:\Users\LabInfo\source\repos\CardapioVirtual\CardapioVirtual\bin\Debug\CardapioVirtual.exe
+C:\Users\LabInfo\source\repos\CardapioVirtual\CardapioVirtual\bin\Debug\CardapioVirtual.pdb
+C:\Users\LabInfo\source\repos\CardapioVirtual\CardapioVirtual\obj\Debug\CardapioVirtual.csproj.AssemblyReference.cache
+C:\Users\LabInfo\source\repos\CardapioVirtual\CardapioVirtual\obj\Debug\CardapioVirtual.cardapio.resources
+C:\Users\LabInfo\source\repos\CardapioVirtual\CardapioVirtual\obj\Debug\CardapioVirtual.Properties.Resources.resources
+C:\Users\LabInfo\source\repos\CardapioVirtual\CardapioVirtual\obj\Debug\CardapioVirtual.csproj.GenerateResource.cache
+C:\Users\LabInfo\source\repos\CardapioVirtual\CardapioVirtual\obj\Debug\CardapioVirtual.csproj.CoreCompileInputs.cache
+C:\Users\LabInfo\source\repos\CardapioVirtual\CardapioVirtual\obj\Debug\CardapioVirtual.exe
+C:\Users\LabInfo\source\repos\CardapioVirtual\CardapioVirtual\obj\Debug\CardapioVirtual.pdb
